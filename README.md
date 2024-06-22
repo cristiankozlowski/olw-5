@@ -11,5 +11,4 @@
 This was the open laravel week 5, where I've been studying and having some practical techniques to build an api project able to get a great performance and some key concepts, for example, using Service Pattern to organize the project with transactions, cache with Redis and building queries to get more performance.
 
 ## 📲 Demo
-
-
+![diagram](https://github.com/cristiankozlowski/olw-5/assets/26977328/a5dd8f3b-92a2-44ea-86a6-78134109f5f9)
